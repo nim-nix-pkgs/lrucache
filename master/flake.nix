@@ -9,7 +9,7 @@
   
   inputs.src-lrucache-master.flake = false;
   inputs.src-lrucache-master.owner = "jackhftang";
-  inputs.src-lrucache-master.ref   = "refs/heads/master";
+  inputs.src-lrucache-master.ref   = "master";
   inputs.src-lrucache-master.repo  = "lrucache";
   inputs.src-lrucache-master.type  = "github";
   
