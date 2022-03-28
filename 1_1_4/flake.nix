@@ -11,7 +11,6 @@
   inputs.src-lrucache-1_1_4.ref   = "refs/tags/1.1.4";
   inputs.src-lrucache-1_1_4.owner = "jackhftang";
   inputs.src-lrucache-1_1_4.repo  = "lrucache";
-  inputs.src-lrucache-1_1_4.dir   = "";
   inputs.src-lrucache-1_1_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

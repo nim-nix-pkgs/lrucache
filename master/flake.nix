@@ -11,7 +11,6 @@
   inputs.src-lrucache-master.ref   = "refs/heads/master";
   inputs.src-lrucache-master.owner = "jackhftang";
   inputs.src-lrucache-master.repo  = "lrucache";
-  inputs.src-lrucache-master.dir   = "";
   inputs.src-lrucache-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
